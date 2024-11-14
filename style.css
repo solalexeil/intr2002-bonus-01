@@ -1,0 +1,16 @@
+body {
+    font-family: Georgia;
+    }
+    
+    .btn-primary{
+        background-color: gold;
+        border-color: transparent;
+        color: black;
+    }
+    
+    #menu .active {
+        background: gold !important;
+        color: black !important;
+    
+    }
+    
